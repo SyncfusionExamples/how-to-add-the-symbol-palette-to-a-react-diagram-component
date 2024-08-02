@@ -1,7 +1,7 @@
 # How to Add the Symbol Palette to a React Diagram Component
 A quick-start React project that shows how to add and customize the symbol palette in the Syncfusion React Diagram component. This project also includes code snippets for restricting the symbol palette's panel, customizing its symbol size, and customizing the symbol preview size.
 
-Document: https://ej2.syncfusion.com/react/documentation/diagram/getting-started#dependencies
+Documentation: https://ej2.syncfusion.com/react/documentation/diagram/getting-started#dependencies
 
 Demo: https://ej2.syncfusion.com/react/demos/#/material3/diagram/default-functionality
 
