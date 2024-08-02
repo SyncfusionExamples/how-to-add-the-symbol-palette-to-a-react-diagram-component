@@ -6,7 +6,7 @@ Documentation: https://ej2.syncfusion.com/react/documentation/diagram/getting-st
 Demo: https://ej2.syncfusion.com/react/demos/#/material3/diagram/default-functionality
 
 ## Project prerequisites
-Make sure that you have the compatible versions of Visual Studio Code and NodeJS or later version in your machine before starting to work on this project.
+Make sure that you have the compatible versions of `Visual Studio Code` and `NodeJS` installed in your machine before starting to work on this project.
 
 ## How to run this application
 To run this application, you need to first clone the `how-to-add-the-symbol-palette-to-a-react-diagram-component` repository and then open it in Visual Studio Code. Now, simply build and run your project using `npm start` command to view the output.
